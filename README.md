@@ -1,4 +1,4 @@
-# NOTE: To view the demo of the project please download 'output.ogv'
+# NOTE: To view the demo of the project please download 'Demo.mp4'
 
 # Seismic Detection Across the Solar System
 
