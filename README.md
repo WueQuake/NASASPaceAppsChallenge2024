@@ -1,3 +1,5 @@
+# NOTE: To view the demo of the project please download 'output.ogv'
+
 # Seismic Detection Across the Solar System
 
 This project contains three main scripts for filtering, detecting, and analyzing seismic events from NASA's provided datasets in CSV format.
