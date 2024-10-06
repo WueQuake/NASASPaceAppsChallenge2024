@@ -16,7 +16,7 @@ This is the main script for filtering and detecting seismic events. It allows mu
 This notebook is responsible for the machine learning model, which detects the start of seismic events. The detected event starts are written into a catalogue file. The NASA CSV datasets are used as input.
 
 #### Result
-![Alt Text](image.png)
+![Alt Text](ML_image.png)
 
 ### 3. `filtering_of_data_from_ML.py`
 This script analyzes a window around the detection from the ML model and provides a more accurate detection, including the on- and off-triggers.
