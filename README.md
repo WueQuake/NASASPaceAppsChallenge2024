@@ -14,3 +14,8 @@ This notebook is responsible for the machine learning model, which detects the s
 
 ### 3. `filtering_of_data_from_ML.py`
 This script analyzes a window around the detection from the ML model and provides a more accurate detection, including the on- and off-triggers.
+
+
+<div style="display: flex; align-items: center;">
+    <img src="https://www.informatik.uni-wuerzburg.de/fileadmin/10031700/2022/logo17_light.svg" width="20%" height="20%">
+</div>
