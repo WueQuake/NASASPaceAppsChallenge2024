@@ -1,4 +1,4 @@
-Welcome, Space Apps challengers, to ìSeismic Detection across the Solar Systemî. 
+Welcome, Space Apps challengers, to ‚ÄúSeismic Detection across the Solar System‚Äù. 
 
 Today, we challenge YOU to parse through seismic data collected on the Moon and Mars and figure out how to detect moonquakes and marsquakes! 
 To get you started on the data, we present to you a training set containing the following:
