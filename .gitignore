@@ -1,3 +1,6 @@
-*.csv
+data/lunar/test/data/*
+data/mars/test/data/*
+data/lunar/training/data/*
+data/lunar/test/data/*
 *.mseed
 *.png
